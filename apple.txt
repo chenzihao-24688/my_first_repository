@@ -3,3 +3,4 @@ apple2
 apple3
 hot_fixed apple4
 zh_insert_apple5
+zh_insert_apple6
