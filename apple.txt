@@ -5,3 +5,4 @@ hot_fixed apple4
 zh_insert_apple5
 zh_insert_apple6
 zh_insert_apple7
+我是master，我偏不吃苹果
